@@ -2,7 +2,7 @@
 
 Docker container with Python OpenCV &amp; OpenCV contrib compiled and installed
 for the Raspberry Pi (including ARM-specific optimizations).  You can pull this
-from Docker hub under the name **tdicola/pi_python_opencv_contrib**.
+from Docker hub under the name **[tdicola/pi_python_opencv_contrib](https://hub.docker.com/r/tdicola/pi_python_opencv_contrib/)**.
 
 This is built from the Resin.io rpi-raspbian image (a minimal
 version of raspbian stretch) and includes:
