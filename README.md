@@ -8,7 +8,7 @@ This is built from the Resin.io rpi-raspbian image (a minimal
 version of raspbian stretch) and includes:
 -   Python 2.7 and Python 3.5 (installed from apt-get repos)
 -   pip
--   numpy
+-   NumPy
 -   OpenCV + OpenCV contrib/non-free module (compiled with ARM NEON
 optimizations)
 
