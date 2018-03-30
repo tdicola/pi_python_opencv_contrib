@@ -57,12 +57,14 @@ RUN apt-get update && apt-get install -y \
     libatlas-base-dev \
     libavcodec-dev \
     libavformat-dev \
+    libavresample-dev \
     libcanberra-gtk* \
     libgtk2.0-dev \
     libgtk-3-dev \
     libjasper-dev \
     libjpeg-dev \
     libpng-dev \
+    libraspberrypi-dev \
     libswscale-dev \
     libtiff5-dev \
     libv4l-dev \
